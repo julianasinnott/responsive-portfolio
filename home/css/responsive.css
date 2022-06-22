@@ -1,0 +1,120 @@
+@media only screen and (max-width: 1050px) {
+    .padding {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .padding {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .header__nav__list {
+        justify-content: center;
+        padding-right: 32px;
+        padding-top: 20px;    
+    }
+
+    .header {
+        gap: 18px;
+    }
+
+    .header__info {
+        flex-direction: column;
+        align-items: center;
+        padding-top: 0;
+        gap: 28px;
+    }
+
+    .header__info__img {
+        order: -1;       
+    }
+
+    .profile-img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .header__info__text {
+        align-items: center;
+        gap: 22px;
+    }
+
+    .header__info__text__title {
+        font-size: 2rem;
+        line-height: 2.5rem;
+        width: 16ch;
+        text-align: center;
+    }
+
+    .header__info__text__description {
+        text-align: center;
+        width: 36ch;
+    }
+    
+    .recente-posts__title {
+        justify-content: center;
+    }
+
+    .recent-posts__title__text, .featured-workd__title {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .recente-posts__title__view {
+        display: none;
+    }
+
+    .recent-posts__cards {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .posts--card--title {
+        font-size: 1.375rem;
+        line-height: 1.875rem;
+    }
+
+    .posts--card--info {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .featured--cards {
+        flex-direction: column;
+        align-items: center;
+        padding: 24px 0;
+        gap: 16px;
+    }
+
+    .featured-works--img {
+        width: 340px;
+        height: 230px;
+    }
+
+    .featured--cards--title {
+        font-size: 1.5rem;   
+        line-height: 1.875rem;
+    }
+
+    .featured--cards--description {
+        width: 37ch;
+        font-size: 1rem;
+        line-height: 1.5rem
+    }
+
+    .featured--cards--tag {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .featured--cards--year {
+        font-size: 1rem;
+    }
+
+}
+    
