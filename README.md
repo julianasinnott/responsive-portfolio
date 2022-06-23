@@ -19,9 +19,11 @@ Projeto de Portfólio Pessoal.
 Proposta de layout desktop e mobile utilizando apenas HTML e CSS puro. 
 Desenvolvido durante o curso de Desenvolvimento FrontEnd - Digital House.
 
-## | Visualize o projeto |
+## | Deploy do projeto |
 
 🔗 https://julianasinnott.github.io/responsive-portfolio/ 🔗
 
+## | Layout base no Figma |
 
+🔗 https://www.figma.com/file/ayk71CQpzvtq2nWlJoDEtV/frontend-m03-08-01-(Copy) 🔗
 🤍
