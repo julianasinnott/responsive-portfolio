@@ -12,7 +12,7 @@
     }
 }
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width: 890px) {
     .header__nav__list {
         justify-content: center;
         padding-right: 32px;
@@ -60,7 +60,7 @@
         justify-content: center;
     }
 
-    .recent-posts__title__text, .featured-workd__title {
+    .recent-posts__title__text, .featured-works__title {
         font-size: 18px;
         text-align: center;
     }
