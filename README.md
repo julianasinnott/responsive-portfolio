@@ -1,4 +1,4 @@
-<h1 align=center> Personal Portfólio </h1>
+<h1 align=center> Personal Portfolio </h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianasinnott/responsive-portfolio.svg?color=00A8CC">
