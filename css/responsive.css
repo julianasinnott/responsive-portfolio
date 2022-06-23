@@ -1,11 +1,11 @@
-@media only screen and (max-width: 1050px) {
+@media only screen and (max-width: 1142px) {
     .padding {
         padding-left: 60px;
         padding-right: 60px;
     }
 }
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 964px) {
     .padding {
         padding-left: 20px;
         padding-right: 20px;
