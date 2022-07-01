@@ -26,4 +26,25 @@ Desenvolvido durante o curso de Desenvolvimento FrontEnd - Digital House.
 ## | Layout base no Figma |
 
 🔗 https://www.figma.com/file/ayk71CQpzvtq2nWlJoDEtV/frontend-m03-08-01-(Copy) 🔗
-🤍
+
+## | Como rodar |
+
+Para clonar e rodar esse projeto você precisa ter instalado o [Git](https://git-scm.com/). 
+
+<hr>
+
+No terminal:
+
+#### Clonando o repositório
+$ `git clone https://github.com/julianasinnott/responsive-portfolio.git`
+
+#### Entrando no repositório
+$ `cd responsive-portfolio`
+
+<hr>
+
+#### - Para visualizar o projeto, abra o arquivo .html em seu navegador -
+
+## | Deploy |
+
+[GitHub Pages](https://pages.github.com/)
