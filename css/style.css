@@ -219,3 +219,25 @@
     line-height: 1.3125rem;
     color: #21243D;
 }
+
+.arrow-top {
+    width: 85px;
+    position: fixed;   
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.arrow-top__img {
+    width: 100%;
+}
+
+.arrow-top:hover {
+    animation: up 3s;
+}
+
+@keyframes up {
+    20% {
+        transform: scale(1.3);
+    }
+}
