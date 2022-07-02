@@ -10,8 +10,10 @@
 }
 
 .container {
-    max-width: 1500px;
+    max-width: 1600px;
+    margin: 0 auto;
     background: #FFFFFF;
+    position: relative;
 }
 
 .padding {
@@ -27,7 +29,7 @@
 
 .header__nav__list {    
     width: 100%;
-    position: fixed;        
+    position: fixed; 
     font-weight: 500;
     font-size: 1.25rem;
     line-height: 1.8125rem;       
@@ -35,7 +37,7 @@
     justify-content: flex-end;
     padding-top: 28px;
     padding-bottom: 28px; 
-    padding-right: 60px;
+    padding-right: 200px;
     color: #000000;
     background-color: #FFFFFF;
 }
@@ -226,7 +228,7 @@
 
 .arrow-top {
     width: 85px;
-    position: fixed;   
+    position: absolute;   
     bottom: 20px;
     right: 20px;
     cursor: pointer;
