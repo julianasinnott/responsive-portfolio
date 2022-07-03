@@ -11,7 +11,8 @@
 </p>
 
 
-![0 0 - Cover](https://user-images.githubusercontent.com/100887684/175203290-ee395d93-b827-456f-b566-3595f60cbc49.png)
+![0 0 - Cover (1)](https://user-images.githubusercontent.com/100887684/177057318-cae249a8-f920-42b5-96c4-c9b6f8f04735.png)
+
 
 ## | Descrição |
 
