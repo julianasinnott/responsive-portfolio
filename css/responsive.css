@@ -1,3 +1,19 @@
+@media only screen and (min-width: 1850px) {
+    .header__nav__list {
+        padding-right: 400px;
+    }
+}
+
+@media only screen and (min-width: 1650px) {
+    .container {
+        position: relative;
+    }
+
+    .arrow-top {
+        position: absolute;
+    }
+}
+
 @media only screen and (max-width: 1350px) {
     .padding {
         padding-left: 200px;

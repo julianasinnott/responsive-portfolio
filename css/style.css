@@ -13,7 +13,6 @@
     max-width: 1600px;
     margin: 0 auto;
     background: #FFFFFF;
-    position: relative;
 }
 
 .padding {
@@ -234,7 +233,7 @@
 
 .arrow-top {
     width: 85px;
-    position: absolute;   
+    position: fixed;   
     bottom: 20px;
     right: 20px;
     cursor: pointer;
