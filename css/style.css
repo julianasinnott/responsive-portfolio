@@ -280,7 +280,7 @@ html {
  
  .loading-container__img {
      position: fixed;
-     left: 50%;
+     left: calc(50% - 40px);
      top: 60%;
      width: 80px;  
      animation: loading 2s linear infinite;    
