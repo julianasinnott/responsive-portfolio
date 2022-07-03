@@ -42,7 +42,15 @@
 }
 
 .list {
-    padding-left: 32px;
+    padding: 2px 6px;
+    margin-left: 28px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.list:hover {
+    background: #EDF7FA;
+    border-radius: 16px;
 }
 
 .header__info {
@@ -272,7 +280,7 @@
  
  .loading-container__img {
      position: fixed;
-     left: 47.5%;
+     left: 50%;
      top: 60%;
      width: 80px; 
  
