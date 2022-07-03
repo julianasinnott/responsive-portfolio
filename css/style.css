@@ -83,6 +83,12 @@
     line-height: 1.8125rem;
     color: #FFFFFF;
     border: none;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+}
+
+.header__info__text__button:hover {
+    background-color: #ff6464d8;
 }
 
 .recent-posts {
@@ -240,6 +246,55 @@
 
 .arrow-top:hover {
     animation: up 3s;
+}
+
+.loading-container {
+    display: none;
+    transition: all 0.4s ease-in-out;
+ }
+ 
+ .loading-container:target {
+     display: block;
+ 
+     width: 100vw;
+     height: 2300px;
+ 
+     position: absolute;
+     top: 0;
+     left: 0;
+ 
+     background-color: #a3caf771;
+ 
+     cursor: auto;
+ 
+     animation: opacity 3s ;
+ }
+ 
+ .loading-container__img {
+     position: fixed;
+     left: 47.5%;
+     top: 60%;
+     width: 80px; 
+ 
+     animation: loading 2s linear infinite;    
+ }
+ 
+ @keyframes opacity {
+     0% {
+         opacity: 0;
+     }
+     50% {
+         opacity: 1;
+     }
+ }
+
+ @keyframes loading {
+    0% {
+		transform: rotate(0);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
 }
 
 @keyframes up {
